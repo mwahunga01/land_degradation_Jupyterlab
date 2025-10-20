@@ -1,0 +1,7 @@
+numpy
+torch
+matplotlib
+earthengine-api==0.1.384
+geemap==0.32.0
+ipykernel
+importlib-metadata
